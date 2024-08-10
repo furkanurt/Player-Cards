@@ -36,6 +36,35 @@ const myFavoriteFootballTeam = {
       nickname: "El Bocha",
     },
     {
+        name: "Ricardo Bochini",
+        position: "midfielder",
+        number: 3,
+        isCaptain: false,
+        nickname: "El Bocha",
+      },
+      {
+        name: "Ricardo Bochini",
+        position: "midfielder",
+        number: 3,
+        isCaptain: false,
+        nickname: "El Bocha",
+      },
+      {
+        name: "Ricardo Bochini",
+        position: "midfielder",
+        number: 3,
+        isCaptain: false,
+        nickname: "El Bocha",
+      },
+      {
+        name: "Ricardo Bochini",
+        position: "midfielder",
+        number: 3,
+        isCaptain: false,
+        nickname: "El Bocha",
+      },
+      
+    {
       name: "Claudio Borghi",
       position: "midfielder",
       number: 4,
